@@ -2,10 +2,10 @@
 name = "spotify"
 version = "0.10.2"
 description = "spotify.py is an asynchronous API wrapper for Spotify written in Python."
-authors = ["mental <m3nta1@yahoo.com>"]
+authors = ["example-git sam@xo.vg"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/mental32/spotify.py"
+repository = "https://github.com/example-git/spotify.py"
 documentation = "https://spotifypy.readthedocs.io/en/latest/"
 keywords = ["spotify", "python", "async", "library", "api"]
 classifiers=[
@@ -23,7 +23,7 @@ classifiers=[
 ]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.10"
 aiohttp = "^3.6"
 
 # [tool.poetry.scripts]
