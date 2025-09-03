@@ -1,6 +1,6 @@
 __version__ = "0.10.2"
 __title__ = "spotify"
-__author__ = "mental"
+__author__ = "example-git"
 __license__ = "MIT"
 
 from typing import Dict, Type
