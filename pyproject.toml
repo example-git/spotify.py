@@ -27,7 +27,7 @@ python = "^3.6"
 aiohttp = "^3.6"
 
 # [tool.poetry.scripts]
-backoff = "^1.10.0"
+backoff = "^2.2.1"
 # spy = "spotify:__main__:console"
 
 [tool.poetry.dev-dependencies]
